@@ -1,4 +1,4 @@
-package com.example.AplicationListereTset;
+package com.example.eventstest.AplicationListereTset;
 
 import org.springframework.context.ApplicationEvent;
 
